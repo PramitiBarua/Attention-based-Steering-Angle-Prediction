@@ -11,7 +11,7 @@ This project investigate various sizes of compact ResNet and InceptionNet models
 
 ## Results
 
-Insert gif or link to demo
+![r3](https://user-images.githubusercontent.com/60800932/235978024-94e3f782-5f1b-45dd-9d8b-3876fd38d26e.png)
 
 
 ## Acknowledgements and References
