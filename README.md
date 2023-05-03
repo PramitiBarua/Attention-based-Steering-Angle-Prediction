@@ -8,4 +8,6 @@
 * Resnet18 model picture was extracted from: *A Deep Learning Approach for Automated Diagnosis and Multi-Class Classification of Alzheimer’s Disease Stages Using Resting-State fMRI and Residual Neural Networks*(DOI:10.1007/s10916-019-1475-2)
 * https://pytorch.org/hub/pytorch_vision_resnet/
 * https://pytorch.org/hub/pytorch_vision_googlenet/
+* https://github.com/shawnhan108/AutoTruckX
+* https://github.com/djlamb3180/AutoTruckX/tree/main/Steering%20Angle%20Prediction
 * https://www.anaconda.com/
