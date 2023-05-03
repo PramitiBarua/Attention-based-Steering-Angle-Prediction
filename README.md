@@ -6,7 +6,7 @@ This project investigate various sizes of compact ResNet and InceptionNet models
 
 ## Model Architechture
 
-![App Screenshot](https://drive.google.com/file/d/1XPF1QBhTkY8_QTucC0yVrLoLHwYgaWCY/view?usp=share_link)
+![App Screenshot](![fig1](https://user-images.githubusercontent.com/60800932/235977181-9d625ccb-bd9f-46f9-8471-defcdde1efa4.png))
 
 
 ## Results
