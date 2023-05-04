@@ -3,7 +3,7 @@
 
 This project investigate various sizes of compact ResNet and InceptionNet models to compare their performance. The derived models can achieve state-of-the-art results in terms of steering angle MSE. In addition, we also explore the attention mechanism and investigate its influence on autonomous steering angle prediction.
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [Arxiv]([https://pages.github.com/](https://arxiv.org/abs/2211.11133)).
 
 ## Model Architechture
 
